@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fb1bbb01.css",
-    "main.js": "/portfolio/static/js/main.1863ffaa.js",
+    "main.js": "/portfolio/static/js/main.2c145527.js",
     "static/media/qjmotor.jpg": "/portfolio/static/media/qjmotor.742c4f92c8d14c56e85b.jpg",
     "static/media/medissa.jpg": "/portfolio/static/media/medissa.851db8f706104e37dba0.jpg",
     "static/media/kar-ka.jpg": "/portfolio/static/media/kar-ka.4f61bb98f8e2c27e27e5.jpg",
@@ -34,10 +34,10 @@
     "static/media/double_arrow_white.svg": "/portfolio/static/media/double_arrow_white.43100ca6f8821a621f7a.svg",
     "static/media/double_arrow.svg": "/portfolio/static/media/double_arrow.4397a60a875d8b83ba93.svg",
     "main.fb1bbb01.css.map": "/portfolio/static/css/main.fb1bbb01.css.map",
-    "main.1863ffaa.js.map": "/portfolio/static/js/main.1863ffaa.js.map"
+    "main.2c145527.js.map": "/portfolio/static/js/main.2c145527.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1bbb01.css",
-    "static/js/main.1863ffaa.js"
+    "static/js/main.2c145527.js"
   ]
 }
