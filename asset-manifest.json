@@ -1,16 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fb1bbb01.css",
-    "main.js": "/portfolio/static/js/main.2c145527.js",
-    "static/media/qjmotor.jpg": "/portfolio/static/media/qjmotor.742c4f92c8d14c56e85b.jpg",
-    "static/media/medissa.jpg": "/portfolio/static/media/medissa.851db8f706104e37dba0.jpg",
-    "static/media/kar-ka.jpg": "/portfolio/static/media/kar-ka.4f61bb98f8e2c27e27e5.jpg",
+    "main.js": "/portfolio/static/js/main.21658028.js",
     "static/media/bg_black80.png": "/portfolio/static/media/bg_black80.b7cf44c8afcb07eab554.png",
-    "static/media/shternamber.jpg": "/portfolio/static/media/shternamber.dabb2a5cc1eed7909314.jpg",
     "static/media/bg.png": "/portfolio/static/media/bg.f5081754f30bb69d13d0.png",
-    "static/media/koko.jpg": "/portfolio/static/media/koko.fa722605991b9d059062.jpg",
-    "static/media/amla.jpg": "/portfolio/static/media/amla.cc14f727a509ebde92c8.jpg",
-    "static/media/evogym.jpg": "/portfolio/static/media/evogym.8e5f7f538557c7fa82d1.jpg",
     "static/media/Unbounded-ExtraBold.ttf": "/portfolio/static/media/Unbounded-ExtraBold.587e7555ea1e2db2ef62.ttf",
     "static/media/Unbounded-Black.ttf": "/portfolio/static/media/Unbounded-Black.dbe98e1aee3d347188a6.ttf",
     "static/media/Unbounded-Bold.ttf": "/portfolio/static/media/Unbounded-Bold.fd12aee9bb358bdecde9.ttf",
@@ -19,25 +12,32 @@
     "static/media/Unbounded-Light.ttf": "/portfolio/static/media/Unbounded-Light.42376e39f679b2dfa5c9.ttf",
     "static/media/Unbounded-Regular.ttf": "/portfolio/static/media/Unbounded-Regular.dae78e7d7490d06751ec.ttf",
     "static/media/Unbounded-ExtraLight.ttf": "/portfolio/static/media/Unbounded-ExtraLight.21b72958c4777d6ec2e1.ttf",
-    "static/media/4beauty.jpg": "/portfolio/static/media/4beauty.18d9341f3ff977488ef6.jpg",
-    "static/media/top-up.jpg": "/portfolio/static/media/top-up.3318a998de6aa0e0fbfe.jpg",
-    "static/media/evento.jpg": "/portfolio/static/media/evento.118ddb4a6c554dd55a0b.jpg",
+    "static/media/batumi.jpg": "/portfolio/static/media/batumi.2e35fedac1b010cde18e.jpg",
+    "static/media/qjmotor.jpg": "/portfolio/static/media/qjmotor.f0038c774030aeb66c75.jpg",
+    "static/media/kar-ka.jpg": "/portfolio/static/media/kar-ka.abbbec84dd09ee6c70a4.jpg",
+    "static/media/evento.jpg": "/portfolio/static/media/evento.318d5c83fa32fc037365.jpg",
+    "static/media/shternamber.jpg": "/portfolio/static/media/shternamber.1180358d0def63cb0dc0.jpg",
+    "static/media/medissa.jpg": "/portfolio/static/media/medissa.44419ed5f7c4b5a91cea.jpg",
+    "static/media/koko.jpg": "/portfolio/static/media/koko.3258930e2a2ebfc7246a.jpg",
+    "static/media/amla.jpg": "/portfolio/static/media/amla.a67fdd5fbe6e2f63d835.jpg",
+    "static/media/evogym.jpg": "/portfolio/static/media/evogym.e0b398b0e52e21d9dbf3.jpg",
+    "static/media/4beauty.jpg": "/portfolio/static/media/4beauty.f3293bf23016107dea95.jpg",
+    "static/media/top-up.jpg": "/portfolio/static/media/top-up.5140d3ee0ad09e9e95f1.jpg",
     "static/media/loader_old.gif": "/portfolio/static/media/loader_old.1d8d5e464a1287bc1593.gif",
-    "static/media/tetris.jpg": "/portfolio/static/media/tetris.6a7bf24e8b3635bddbec.jpg",
     "static/media/main.jpg": "/portfolio/static/media/main.ae9c161efd7a3274f216.jpg",
-    "static/media/tenzies.jpg": "/portfolio/static/media/tenzies.41bbfc05bb8fa54be200.jpg",
+    "static/media/tetris.jpg": "/portfolio/static/media/tetris.4f76dccaecb1af4b9799.jpg",
     "static/media/loader.gif": "/portfolio/static/media/loader.eb4f6943092a90f35f94.gif",
-    "static/media/old_portfolio.jpg": "/portfolio/static/media/old_portfolio.948b71830328a5e7814b.jpg",
     "static/media/php.png": "/portfolio/static/media/php.97aaa2d1349a348c207f.png",
+    "static/media/old_portfolio.jpg": "/portfolio/static/media/old_portfolio.be5272f8fe2df052e14f.jpg",
     "static/media/jquery.png": "/portfolio/static/media/jquery.52c455bede285670d354.png",
     "index.html": "/portfolio/index.html",
     "static/media/double_arrow_white.svg": "/portfolio/static/media/double_arrow_white.43100ca6f8821a621f7a.svg",
     "static/media/double_arrow.svg": "/portfolio/static/media/double_arrow.4397a60a875d8b83ba93.svg",
     "main.fb1bbb01.css.map": "/portfolio/static/css/main.fb1bbb01.css.map",
-    "main.2c145527.js.map": "/portfolio/static/js/main.2c145527.js.map"
+    "main.21658028.js.map": "/portfolio/static/js/main.21658028.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1bbb01.css",
-    "static/js/main.2c145527.js"
+    "static/js/main.21658028.js"
   ]
 }
